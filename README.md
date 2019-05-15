@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDev-Osmium%2FJAdventure.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDev-Osmium%2FJAdventure?ref=badge_shield)
+
 ![](http://i.imgur.com/xswo3w8.png "test")
 ==============================================
 
@@ -182,3 +184,7 @@ standard will be decided based on either majority rule or official documentation
     which will be a space after the curly brace.
  1. Comments should have one space after "//"
  1. Comments 4 lines or greater in length should be multi-line commented
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDev-Osmium%2FJAdventure.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDev-Osmium%2FJAdventure?ref=badge_large)
